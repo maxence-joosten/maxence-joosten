@@ -6,7 +6,7 @@
 *  `Nirvana` is my all-time favorite band.
 *  Big into video games, especially the `BioShock` series! 
 *  Movie buff - `Fight Club` is my all-time favorite.
-*  When I'm not coding, I'm probably catching up on anime. `JoJo's Bizarre Adventure` and `Code Geass` are my top picks.
+*  When I'm not coding, I'm probably catching up on anime. `JoJo's Bizarre Adventure` and `Code Geass` are top picks.  I also enjoy diving into manga and comics, with `Berserk` currently holding the title of my favorite.
 
 **🎓 Student life at HOGENT:**
 
