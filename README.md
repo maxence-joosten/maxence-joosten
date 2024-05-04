@@ -3,7 +3,7 @@
 **🙋‍♂️ A bit about me:**
 
 *  I've been rocking the electric guitar since `March 4th, 2022`!
-*  My favourite band is `Nirvana`.
+*  `Nirvana` is my all-time favorite band.
 *  Big into video games, especially the `BioShock` series! 
 *  Movie buff - `Fight Club` is my all-time favorite.
 *  When I'm not coding, I'm probably catching up on anime. `JoJo's Bizarre Adventure` and `Code Geass` are my top picks.
@@ -13,7 +13,8 @@
 * ‍ First-year student in a `Professional Bachelor of Applied Computer Science`.
 *  Currently learning the ropes of `Java`, `HTML`, `CSS`, `JavaScript`, `Bash`, `Markdown`, `SQL` and `Docker`. 
 *  Planning to specialize in `System & Network Administrator` in the second year.
-   * If you want more info about my studies: [Click here!](https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica)
+
+→ If you want more info about my studies: [Click here!](https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica)
 
 **🔭 Projects:**
 
