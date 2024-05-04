@@ -18,7 +18,7 @@
 
 **🔭 Projects:**
 
-* ️  **Software Development Project 1 (SDP):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/HoGentTIProjecten1/kingdomino-g77)).
+* ️  **Software Development Project 1 (SDP1):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/HoGentTIProjecten1/kingdomino-g77)).
 *   **System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/HOGENT-SELab/selab-2324-g77)).
 *   **Building my own self-hosted media server:** Repurposing an old desktop with Ubuntu and CasaOS ([@CasaOS](https://github.com/IceWhaleTech/CasaOS)) to run Jellyfin ([@jellyfin](https://github.com/jellyfin/jellyfin)) as my personal media server.
 
