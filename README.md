@@ -3,6 +3,7 @@
 **🙋‍♂️ A bit about me:**
 
 *  I've been rocking the electric guitar since `March 4th, 2022`!
+*  My favourite band is `Nirvana`
 *  Big into video games, especially the `BioShock` series! 
 *  Movie buff - `Fight Club` is my all-time favorite.
 *  When I'm not coding, I'm probably catching up on anime. `JoJo's Bizarre Adventure` and `Code Geass` are my top picks.
