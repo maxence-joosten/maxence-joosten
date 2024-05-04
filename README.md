@@ -11,7 +11,7 @@
 **🎓 Student life at HOGENT:**
 
 * ‍ First-year student in a `Professional Bachelor of Applied Computer Science`.
-*  Currently learning the ropes of `Java`, `JavaFX`, `HTML`, `CSS`, `JavaScript`, `Bash`, `Markdown`, `SQL` and `Docker`. 
+*  Currently learning the ropes of `Java`, `HTML`, `CSS`, `JavaScript`, `Bash`, `Markdown`, `SQL` and `Docker`. 
 *  Planning to specialize in `Systeem en Netwerkbeheer` in the second year. 
 
 **🔭 Projects:**
