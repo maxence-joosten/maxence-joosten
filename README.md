@@ -19,6 +19,6 @@
 
 - [x] ️  **[SCHOOL] Software Development Project 1 (SDP1):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/maxence-joosten/kingdomino)).
 - [x]   **[SCHOOL] System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/maxence-joosten/selab-2324-g77)).
-- [ ]   **Building my own self-hosted home server:** Raspberry Pi 5 with Ubuntu Server (Runs Portainer, Pi-Hole, Jellyfin Jellyseer, Prowlarr, Sonarr, Radarr, Bazarr, qBittorrent and Kavita).
+- [x]   **Building my own self-hosted home server:** Raspberry Pi 5 with Ubuntu Server (Runs Portainer, Pi-Hole, Jellyfin Jellyseer, Prowlarr, Sonarr, Radarr, Bazarr, qBittorrent and Kavita).
 
 **Feel free to reach out!** 
