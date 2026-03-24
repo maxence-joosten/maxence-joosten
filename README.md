@@ -21,6 +21,7 @@
 - [x]   **[SCHOOL] System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/maxence-joosten/selab-2324-g77)).
 - [x]   **Building my own self-hosted home server:** Raspberry Pi 5 with Ubuntu Server (runs Portainer, Pi-Hole, Jellyfin, Jellyseer, Prowlarr, Sonarr, Radarr, Bazarr, qBittorrent, Kavita and Nextcloud).
 - [x] ~~**Daily driving Fedora with a Hyprland configuration:** Dots are comming soon!~~
-- [X] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS! 
+- [X] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS!
+- [ ] **Virtual IT Company (VIC):** All my projects durring my time at [VIC](https://vichogent.be) (See the repo here: [@vic-projects](https://github.com/maxence-joosten/vic_projects))
 
 **Feel free to reach out!** 
