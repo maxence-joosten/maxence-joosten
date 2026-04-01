@@ -10,7 +10,7 @@
 
 **🎓 Student life at HOGENT:**
 
-* ‍ Third-year student in a `Professional Bachelor of Applied Computer Science`, specializing in `IT Infrastructure`.
+* ‍ Third-year student in a `Professional Bachelor of Applied Information Technology`, specializing in `IT Infrastructure`.
 *  Currently learning the ropes of `Linux`, `Infrastructure as Code` (OpenTofu, Ansible, Terraform), `Virtualization` (Proxmox, Docker, Vagrant, VBoxManage), `Networking` (Cisco Routing & Switching, VLANs), and `Cybersecurity` (Metasploit, CVE-analysis).
 
 → If you want more info about my studies: [Click here!](https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica)
