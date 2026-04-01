@@ -5,23 +5,29 @@
 *  I've been rocking the electric guitar since `March 4th, 2022`!
 *  `Nirvana` is my all-time favorite band.
 *  Big into video games, especially the `BioShock` series! 
-*  Movie buff - `Fight Club` is my all-time favorite.
+*  Movie buff - `Inglourious Basterds` is my all-time favorite.
 *  When I'm not coding, I'm probably catching up on anime. `JoJo's Bizarre Adventure` and `Code Geass` are top picks.  I also enjoy diving into manga and comics, with `Steel Ball Run` currently holding the title of my favorite.
 
 **🎓 Student life at HOGENT:**
 
-* ‍ Third-year student in a `Professional Bachelor of Applied Computer Science`, specializing in `System & Network Administration`.
-*  Currently learning the ropes of `Python`, `Java`, `HTML`, `CSS`, `JavaScript`, `Bash`, `PowerShell`, `Markdown`, `SQL`, `Virtualisation`, `Networking` and `CyberSecurity`. 
+* ‍ Third-year student in a `Professional Bachelor of Applied Computer Science`, specializing in `IT Infrastructure`.
+*  Currently learning the ropes of `Linux`, `Infrastructure as Code` (OpenTofu, Ansible, Terraform), `Virtualization` (Proxmox, Docker, Vagrant, VBoxManage), `Networking` (Cisco Routing & Switching, VLANs), and `Cybersecurity` (Metasploit, CVE-analysis).
 
 → If you want more info about my studies: [Click here!](https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica)
 
 **🔭 Projects:**
 
-- [x] ️  **[SCHOOL] Software Development Project 1 (SDP1):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/maxence-joosten/kingdomino)).
-- [x]   **[SCHOOL] System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/maxence-joosten/selab-2324-g77)).
-- [x]   **Building my own self-hosted home server:** Raspberry Pi 5 with Ubuntu Server (runs Portainer, Pi-Hole, Jellyfin, Jellyseer, Prowlarr, Sonarr, Radarr, Bazarr, qBittorrent, Kavita and Nextcloud).
-- [x] ~~**Daily driving Fedora with a Hyprland configuration:** Dots are comming soon!~~
-- [X] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS!
-- [ ] **Virtual IT Company (VIC):** All my projects during my time at [VIC](https://vichogent.be) (See the repo here: [@vic-projects](https://github.com/maxence-joosten/vic_projects))
+- [ ] **System Engineering Project:** Automating a complex ICT infrastructure (DNS, DHCP, LDAP) with a focus on "Infrastructure as Code" and deployment from scratch within 2 hours.
+- [ ] **Virtual IT Company (VIC):** Hands-on experience with enterprise-level infrastructure using Proxmox and OpenTofu/Terraform for automated VM provisioning (See the repo here: [@vic-projects](https://github.com/maxence-joosten/vic_projects)).
+- [x] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS!
+- [ ] **Personal Homelab:** Raspberry Pi 5 with Ubuntu Server running Portainer, Pi-Hole, Nextcloud, and the Arr-stack.(Documentation comming soon!)
+- [x] **Cybersecurity & Virtualization:** Automated deployment of a vulnerable environment via PowerShell and VBoxManage, including the exploitation of CVE-2019-15107.
+- [x] **Software Development Project 1 (SDP1):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/maxence-joosten/kingdomino)).
+- [x] **System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/maxence-joosten/selab-2324-g77)).
+
+**📫 Let's connect:**
+
+* 📧 Email: maxence.joosten@hotmail.com
+* 🔗 LinkedIn: [in/maxence-joosten](https://linkedin.com/in/maxence-joosten)
 
 **Feel free to reach out!** 
