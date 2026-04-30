@@ -17,7 +17,7 @@
 
 **🔭 Projects:**
 
-- [ ] **lockin**: A terminal command that forces you into focus mode. It blocks distracting websites, closes distracting apps, and runs a timed session with random ASCII art (See the repo here: [@lockin](https://github.com/maxence-joosten/lockin)).
+- [x] **lockin**: A terminal command that forces you into focus mode. It blocks distracting websites, closes distracting apps, and runs a timed session with random ASCII art (See the repo here: [@lockin](https://github.com/maxence-joosten/lockin)).
 - [ ] **System Engineering Project:** Automating a complex ICT infrastructure (DNS, DHCP, LDAP) with a focus on "Infrastructure as Code" and deployment from scratch within 2 hours.
 - [ ] **Virtual IT Company (VIC):** Hands-on experience with enterprise-level infrastructure using Proxmox and OpenTofu/Terraform for automated VM provisioning (See the repo here: [@vic-projects](https://github.com/maxence-joosten/vic_projects)).
 - [x] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS!
