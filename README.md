@@ -22,7 +22,7 @@
 - [ ] **Virtual IT Company (VIC):** Hands-on experience with enterprise-level infrastructure using Proxmox and OpenTofu/Terraform for automated VM provisioning (See the repo here: [@vic-projects](https://github.com/maxence-joosten/vic_projects)).
 - [x] **Daily driving Linux:** Using CachyOS together with Hyprland as DE. My very first Arch-based OS!
 - [ ] **Personal Homelab:** Raspberry Pi 5 with Ubuntu Server running Portainer, Pi-Hole, Nextcloud, and the Arr-stack.(Documentation comming soon!)
-- [x] **Cybersecurity & Virtualization:** Automated deployment of a vulnerable environment via PowerShell and VBoxManage, including the exploitation of CVE-2019-15107 (See the repo here: [@CyberVR](https://github.com/MaSeraphina/CyberVR).
+- [x] **Cybersecurity & Virtualization:** Automated deployment of a vulnerable environment via PowerShell and VBoxManage, including the exploitation of CVE-2019-15107 (See the repo here: [@CyberVR](https://github.com/MaSeraphina/CyberVR)).
 - [x] **Software Development Project 1 (SDP1):** Building a game called KingDomino using Java and JavaFX (Check it out here: [@kingdomino-g77](https://github.com/maxence-joosten/kingdomino)).
 - [x] **System Engineering Lab (SE-Lab):** Diving into Linux, container virtualization, networking, and cloud computing (See the repo here: [@selab-2324-g77](https://github.com/maxence-joosten/selab-2324-g77)).
 
